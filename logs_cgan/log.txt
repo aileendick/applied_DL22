@@ -1,0 +1,2211 @@
+Training data is scaled between -1 and 1
+train shape: (50000, 3, 32, 32)
+test shape: (10000, 3, 32, 32)
+training batches: 781 
+test batches: 20
+
+
+
+Starting epoch 1
+t: 10
+trainx shape: (50000, 3, 32, 32)
+trainy shape: (50000,)
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 1, loss real = 0.0912, loss fake = 0.0259,loss_gen = 0.8366, los gen gan = 0.9052, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 16.42540454864502
+Saving generated images...
+
+
+
+Starting epoch 2
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 2, loss real = 0.0716, loss fake = 0.0283,loss_gen = 0.8244, los gen gan = 0.8980, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.378955125808716
+Saving generated images...
+
+
+
+Starting epoch 3
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 3, loss real = 0.0703, loss fake = 0.0258,loss_gen = 0.8332, los gen gan = 0.9037, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.38186764717102
+Saving generated images...
+
+
+
+Starting epoch 4
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 4, loss real = 0.0696, loss fake = 0.0241,loss_gen = 0.8340, los gen gan = 0.9049, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.995331048965454
+Saving generated images...
+
+
+
+Starting epoch 5
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 5, loss real = 0.0678, loss fake = 0.0248,loss_gen = 0.8379, los gen gan = 0.9066, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.415042638778687
+Saving generated images...
+
+
+
+Starting epoch 6
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 6, loss real = 0.0743, loss fake = 0.0275,loss_gen = 0.8193, los gen gan = 0.8959, test acc = 0.1000,inc score mean = 1.9016
+Epoch time: 13.590793132781982
+Saving generated images...
+
+
+
+Starting epoch 7
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 7, loss real = 0.0754, loss fake = 0.0316,loss_gen = 0.8130, los gen gan = 0.8907, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.52466106414795
+Saving generated images...
+
+
+
+Starting epoch 8
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 8, loss real = 0.0843, loss fake = 0.0410,loss_gen = 0.7822, los gen gan = 0.8706, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.010660648345947
+Saving generated images...
+
+
+
+Starting epoch 9
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 9, loss real = 0.0996, loss fake = 0.0604,loss_gen = 0.7335, los gen gan = 0.8366, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.855999946594238
+Saving generated images...
+
+
+
+Starting epoch 10
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 10, loss real = 0.1114, loss fake = 0.0692,loss_gen = 0.7005, los gen gan = 0.8156, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.117623090744019
+Saving generated images...
+
+
+
+Starting epoch 11
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 11, loss real = 0.1169, loss fake = 0.0712,loss_gen = 0.6898, los gen gan = 0.8093, test acc = 0.1000,inc score mean = 1.0768
+Epoch time: 12.809871673583984
+Saving generated images...
+
+
+
+Starting epoch 12
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 12, loss real = 0.1240, loss fake = 0.0787,loss_gen = 0.6686, los gen gan = 0.7949, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 14.128562211990356
+Saving generated images...
+
+
+
+Starting epoch 13
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 13, loss real = 0.1290, loss fake = 0.0865,loss_gen = 0.6505, los gen gan = 0.7820, test acc = 0.1000,inc score mean = 1.7770
+Epoch time: 12.727267503738403
+Saving generated images...
+
+
+
+Starting epoch 14
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 14, loss real = 0.1295, loss fake = 0.0886,loss_gen = 0.6505, los gen gan = 0.7810, test acc = 0.1000,inc score mean = 1.1537
+Epoch time: 13.45969033241272
+Saving generated images...
+
+
+
+Starting epoch 15
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 15, loss real = 0.1305, loss fake = 0.0931,loss_gen = 0.6396, los gen gan = 0.7733, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.182126998901367
+Saving generated images...
+
+
+
+Starting epoch 16
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 16, loss real = 0.1321, loss fake = 0.0992,loss_gen = 0.6313, los gen gan = 0.7661, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.079663276672363
+Saving generated images...
+
+
+
+Starting epoch 17
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 17, loss real = 0.1327, loss fake = 0.1000,loss_gen = 0.6270, los gen gan = 0.7635, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.330875158309937
+Saving generated images...
+
+
+
+Starting epoch 18
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 18, loss real = 0.1286, loss fake = 0.1006,loss_gen = 0.6335, los gen gan = 0.7665, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.148712158203125
+Saving generated images...
+
+
+
+Starting epoch 19
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 19, loss real = 0.1257, loss fake = 0.1028,loss_gen = 0.6336, los gen gan = 0.7654, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.871164083480835
+Saving generated images...
+
+
+
+Starting epoch 20
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 20, loss real = 0.1187, loss fake = 0.1025,loss_gen = 0.6468, los gen gan = 0.7721, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.135180711746216
+Saving generated images...
+
+
+
+Starting epoch 21
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 21, loss real = 0.1129, loss fake = 0.1021,loss_gen = 0.6547, los gen gan = 0.7763, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.929051399230957
+Saving generated images...
+
+
+
+Starting epoch 22
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 22, loss real = 0.1070, loss fake = 0.0995,loss_gen = 0.6690, los gen gan = 0.7848, test acc = 0.1000,inc score mean = 1.3870
+Epoch time: 13.74711537361145
+Saving generated images...
+
+
+
+Starting epoch 23
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 23, loss real = 0.0974, loss fake = 0.0941,loss_gen = 0.6926, los gen gan = 0.7993, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.095395803451538
+Saving generated images...
+
+
+
+Starting epoch 24
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 24, loss real = 0.0918, loss fake = 0.0919,loss_gen = 0.7056, los gen gan = 0.8069, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.645081043243408
+Saving generated images...
+
+
+
+Starting epoch 25
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 25, loss real = 0.0841, loss fake = 0.0874,loss_gen = 0.7262, los gen gan = 0.8194, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.793369054794312
+Saving generated images...
+
+
+
+Starting epoch 26
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 26, loss real = 0.0773, loss fake = 0.0819,loss_gen = 0.7464, los gen gan = 0.8323, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 14.51269268989563
+Saving generated images...
+
+
+
+Starting epoch 27
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 27, loss real = 0.0707, loss fake = 0.0780,loss_gen = 0.7679, los gen gan = 0.8450, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.767522096633911
+Saving generated images...
+
+
+
+Starting epoch 28
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 28, loss real = 0.0652, loss fake = 0.0751,loss_gen = 0.7752, los gen gan = 0.8501, test acc = 0.1000,inc score mean = 1.2716
+Epoch time: 13.720647096633911
+Saving generated images...
+
+
+
+Starting epoch 29
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 29, loss real = 0.0630, loss fake = 0.0717,loss_gen = 0.7894, los gen gan = 0.8588, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.259474992752075
+Saving generated images...
+
+
+
+Starting epoch 30
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 30, loss real = 0.0584, loss fake = 0.0680,loss_gen = 0.8062, los gen gan = 0.8691, test acc = 0.1000,inc score mean = 1.9292
+Epoch time: 13.573277235031128
+Saving generated images...
+
+
+
+Starting epoch 31
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 31, loss real = 0.0556, loss fake = 0.0650,loss_gen = 0.8100, los gen gan = 0.8725, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.775662183761597
+Saving generated images...
+
+
+
+Starting epoch 32
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 32, loss real = 0.0534, loss fake = 0.0638,loss_gen = 0.8210, los gen gan = 0.8786, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.271037817001343
+Saving generated images...
+
+
+
+Starting epoch 33
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 33, loss real = 0.0488, loss fake = 0.0572,loss_gen = 0.8392, los gen gan = 0.8910, test acc = 0.1000,inc score mean = 2.0086
+Epoch time: 13.551214218139648
+Saving generated images...
+
+
+
+Starting epoch 34
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 34, loss real = 0.0475, loss fake = 0.0535,loss_gen = 0.8505, los gen gan = 0.8985, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.373475313186646
+Saving generated images...
+
+
+
+Starting epoch 35
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 35, loss real = 0.0423, loss fake = 0.0488,loss_gen = 0.8622, los gen gan = 0.9067, test acc = 0.1000,inc score mean = 2.0525
+Epoch time: 12.722976207733154
+Saving generated images...
+
+
+
+Starting epoch 36
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 36, loss real = 0.0396, loss fake = 0.0446,loss_gen = 0.8739, los gen gan = 0.9147, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.843064546585083
+Saving generated images...
+
+
+
+Starting epoch 37
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 37, loss real = 0.0374, loss fake = 0.0392,loss_gen = 0.8898, los gen gan = 0.9253, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.269790172576904
+Saving generated images...
+
+
+
+Starting epoch 38
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 38, loss real = 0.0323, loss fake = 0.0312,loss_gen = 0.9114, los gen gan = 0.9401, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.832567930221558
+Saving generated images...
+
+
+
+Starting epoch 39
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 39, loss real = 0.0273, loss fake = 0.0247,loss_gen = 0.9272, los gen gan = 0.9513, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.22843337059021
+Saving generated images...
+
+
+
+Starting epoch 40
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 40, loss real = 0.0220, loss fake = 0.0178,loss_gen = 0.9489, los gen gan = 0.9656, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.145564794540405
+Saving generated images...
+
+
+
+Starting epoch 41
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 41, loss real = 0.0199, loss fake = 0.0158,loss_gen = 0.9489, los gen gan = 0.9666, test acc = 0.1000,inc score mean = 1.1537
+Epoch time: 13.326058864593506
+Saving generated images...
+
+
+
+Starting epoch 42
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 42, loss real = 0.0221, loss fake = 0.0176,loss_gen = 0.9469, los gen gan = 0.9646, test acc = 0.1000,inc score mean = 1.6394
+Epoch time: 13.35470461845398
+Saving generated images...
+
+
+
+Starting epoch 43
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 43, loss real = 0.0205, loss fake = 0.0162,loss_gen = 0.9445, los gen gan = 0.9642, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.888562202453613
+Saving generated images...
+
+
+
+Starting epoch 44
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 44, loss real = 0.0174, loss fake = 0.0121,loss_gen = 0.9603, los gen gan = 0.9741, test acc = 0.1000,inc score mean = 1.0384
+Epoch time: 13.119782447814941
+Saving generated images...
+
+
+
+Starting epoch 45
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 45, loss real = 0.0160, loss fake = 0.0113,loss_gen = 0.9705, los gen gan = 0.9796, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.039815902709961
+Saving generated images...
+
+
+
+Starting epoch 46
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 46, loss real = 0.0075, loss fake = 0.0048,loss_gen = 0.9887, los gen gan = 0.9919, test acc = 0.1000,inc score mean = 1.5401
+Epoch time: 12.94540524482727
+Saving generated images...
+
+
+
+Starting epoch 47
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 47, loss real = 0.0008, loss fake = 0.0009,loss_gen = 0.9998, los gen gan = 0.9995, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.427378177642822
+Saving generated images...
+
+
+
+Starting epoch 48
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 48, loss real = 0.0019, loss fake = 0.0018,loss_gen = 0.9990, los gen gan = 0.9986, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 14.076892137527466
+Saving generated images...
+
+
+
+Starting epoch 49
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 49, loss real = 0.0006, loss fake = 0.0003,loss_gen = 0.9998, los gen gan = 0.9997, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.025080919265747
+Saving generated images...
+
+
+
+Starting epoch 50
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 50, loss real = 0.0366, loss fake = 0.2784,loss_gen = 1.2793, los gen gan = 1.0167, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.349125623703003
+Saving generated images...
+
+
+
+Starting epoch 51
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 51, loss real = 0.0071, loss fake = 0.0019,loss_gen = 0.9937, los gen gan = 0.9959, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.864852666854858
+Saving generated images...
+
+
+
+Starting epoch 52
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 52, loss real = 0.0019, loss fake = 0.0002,loss_gen = 0.9999, los gen gan = 0.9998, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.161573648452759
+Saving generated images...
+
+
+
+Starting epoch 53
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 53, loss real = 0.0008, loss fake = 0.0002,loss_gen = 1.0000, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 14.029330253601074
+Saving generated images...
+
+
+
+Starting epoch 54
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 54, loss real = 0.0003, loss fake = 0.0003,loss_gen = 1.0002, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.310958623886108
+Saving generated images...
+
+
+
+Starting epoch 55
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 55, loss real = 0.0001, loss fake = 0.0002,loss_gen = 1.0001, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.29146695137024
+Saving generated images...
+
+
+
+Starting epoch 56
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 56, loss real = 0.0001, loss fake = 0.0002,loss_gen = 1.0002, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.848734140396118
+Saving generated images...
+
+
+
+Starting epoch 57
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 57, loss real = 0.0086, loss fake = 0.0573,loss_gen = 1.0465, los gen gan = 1.0086, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.998591661453247
+Saving generated images...
+
+
+
+Starting epoch 58
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 58, loss real = 0.0059, loss fake = 0.0006,loss_gen = 0.9972, los gen gan = 0.9983, test acc = 0.1000,inc score mean = 1.8780
+Epoch time: 13.05486273765564
+Saving generated images...
+
+
+
+Starting epoch 59
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 59, loss real = 0.0009, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.938917636871338
+Saving generated images...
+
+
+
+Starting epoch 60
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 60, loss real = 0.0003, loss fake = 0.0003,loss_gen = 1.0003, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.542662143707275
+Saving generated images...
+
+
+
+Starting epoch 61
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 61, loss real = 0.0002, loss fake = 0.0003,loss_gen = 1.0003, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.903275728225708
+Saving generated images...
+
+
+
+Starting epoch 62
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 62, loss real = 0.0006, loss fake = 0.0003,loss_gen = 1.0002, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.724973440170288
+Saving generated images...
+
+
+
+Starting epoch 63
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 63, loss real = 0.0012, loss fake = 0.0006,loss_gen = 1.0005, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.925973892211914
+Saving generated images...
+
+
+
+Starting epoch 64
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 64, loss real = 0.0040, loss fake = 0.0060,loss_gen = 1.0013, los gen gan = 0.9977, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.604697465896606
+Saving generated images...
+
+
+
+Starting epoch 65
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 65, loss real = 0.0001, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.892911911010742
+Saving generated images...
+
+
+
+Starting epoch 66
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 66, loss real = 0.0004, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.5359
+Epoch time: 12.965334177017212
+Saving generated images...
+
+
+
+Starting epoch 67
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 67, loss real = 0.0011, loss fake = 0.0001,loss_gen = 0.9996, los gen gan = 0.9998, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.122983455657959
+Saving generated images...
+
+
+
+Starting epoch 68
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 68, loss real = 0.0009, loss fake = 0.0001,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.8587
+Epoch time: 13.138582468032837
+Saving generated images...
+
+
+
+Starting epoch 69
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 69, loss real = 0.0011, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 14.022521495819092
+Saving generated images...
+
+
+
+Starting epoch 70
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 70, loss real = 0.0051, loss fake = 0.0826,loss_gen = 1.0896, los gen gan = 1.0075, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.983602523803711
+Saving generated images...
+
+
+
+Starting epoch 71
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 71, loss real = 0.0007, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.262149333953857
+Saving generated images...
+
+
+
+Starting epoch 72
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 72, loss real = 0.0002, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.547238826751709
+Saving generated images...
+
+
+
+Starting epoch 73
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 73, loss real = 0.0001, loss fake = 0.0001,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.308299541473389
+Saving generated images...
+
+
+
+Starting epoch 74
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 74, loss real = 0.0000, loss fake = 0.0001,loss_gen = 0.9998, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.892569065093994
+Saving generated images...
+
+
+
+Starting epoch 75
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 75, loss real = 0.0000, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.334694623947144
+Saving generated images...
+
+
+
+Starting epoch 76
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 76, loss real = 0.0002, loss fake = 0.0001,loss_gen = 0.9998, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 14.231084108352661
+Saving generated images...
+
+
+
+Starting epoch 77
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 77, loss real = 0.0004, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.223509311676025
+Saving generated images...
+
+
+
+Starting epoch 78
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 78, loss real = 0.0005, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.036948442459106
+Saving generated images...
+
+
+
+Starting epoch 79
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 79, loss real = 0.0085, loss fake = 0.1149,loss_gen = 1.1026, los gen gan = 1.0124, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.50642991065979
+Saving generated images...
+
+
+
+Starting epoch 80
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 80, loss real = 0.0050, loss fake = 0.0003,loss_gen = 0.9971, los gen gan = 0.9984, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.077423334121704
+Saving generated images...
+
+
+
+Starting epoch 81
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 81, loss real = 0.0015, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.843509197235107
+Saving generated images...
+
+
+
+Starting epoch 82
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 82, loss real = 0.0006, loss fake = 0.0002,loss_gen = 1.0001, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.14680027961731
+Saving generated images...
+
+
+
+Starting epoch 83
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 83, loss real = 0.0003, loss fake = 0.0003,loss_gen = 1.0001, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.500308513641357
+Saving generated images...
+
+
+
+Starting epoch 84
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 84, loss real = 0.0002, loss fake = 0.0003,loss_gen = 1.0002, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.11108922958374
+Saving generated images...
+
+
+
+Starting epoch 85
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 85, loss real = 0.0001, loss fake = 0.0002,loss_gen = 1.0002, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.180545091629028
+Saving generated images...
+
+
+
+Starting epoch 86
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 86, loss real = 0.0001, loss fake = 0.0002,loss_gen = 1.0002, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.041670799255371
+Saving generated images...
+
+
+
+Starting epoch 87
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 87, loss real = 0.0001, loss fake = 0.0002,loss_gen = 1.0001, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.865416765213013
+Saving generated images...
+
+
+
+Starting epoch 88
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 88, loss real = 0.0003, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.033662557601929
+Saving generated images...
+
+
+
+Starting epoch 89
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 89, loss real = 0.0004, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.941982507705688
+Saving generated images...
+
+
+
+Starting epoch 90
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 90, loss real = 0.0049, loss fake = 0.0458,loss_gen = 1.0494, los gen gan = 1.0068, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.52457880973816
+Saving generated images...
+
+
+
+Starting epoch 91
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 91, loss real = 0.0005, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 14.159297227859497
+Saving generated images...
+
+
+
+Starting epoch 92
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 92, loss real = 0.0002, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.217405796051025
+Saving generated images...
+
+
+
+Starting epoch 93
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 93, loss real = 0.0003, loss fake = 0.0004,loss_gen = 0.9979, los gen gan = 0.9987, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.376880168914795
+Saving generated images...
+
+
+
+Starting epoch 94
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 94, loss real = 0.0001, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.724867343902588
+Saving generated images...
+
+
+
+Starting epoch 95
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 95, loss real = 0.0001, loss fake = 0.0001,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.678585529327393
+Saving generated images...
+
+
+
+Starting epoch 96
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 96, loss real = 0.0002, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.363494873046875
+Saving generated images...
+
+
+
+Starting epoch 97
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 97, loss real = 0.0003, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 14.141435384750366
+Saving generated images...
+
+
+
+Starting epoch 98
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 98, loss real = 0.0004, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.503492593765259
+Saving generated images...
+
+
+
+Starting epoch 99
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 99, loss real = 0.0004, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.338627576828003
+Saving generated images...
+
+
+
+Starting epoch 100
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 100, loss real = 0.0180, loss fake = 0.2022,loss_gen = 1.2045, los gen gan = 1.0219, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.531188249588013
+Saving generated images...
+
+
+
+Starting epoch 101
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 101, loss real = 0.0021, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.841238975524902
+Saving generated images...
+
+
+
+Starting epoch 102
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 102, loss real = 0.0012, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 14.040456771850586
+Saving generated images...
+
+
+
+Starting epoch 103
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 103, loss real = 0.0007, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.583486318588257
+Saving generated images...
+
+
+
+Starting epoch 104
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 104, loss real = 0.0004, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.25986099243164
+Saving generated images...
+
+
+
+Starting epoch 105
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 105, loss real = 0.0002, loss fake = 0.0000,loss_gen = 0.9998, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.381286859512329
+Saving generated images...
+
+
+
+Starting epoch 106
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 106, loss real = 0.0002, loss fake = 0.0001,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.94489073753357
+Saving generated images...
+
+
+
+Starting epoch 107
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 107, loss real = 0.0001, loss fake = 0.0001,loss_gen = 1.0001, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.484513759613037
+Saving generated images...
+
+
+
+Starting epoch 108
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 108, loss real = 0.0002, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.066758155822754
+Saving generated images...
+
+
+
+Starting epoch 109
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 109, loss real = 0.0003, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.370758771896362
+Saving generated images...
+
+
+
+Starting epoch 110
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 110, loss real = 0.0003, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.005995273590088
+Saving generated images...
+
+
+
+Starting epoch 111
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 111, loss real = 0.0003, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.947551727294922
+Saving generated images...
+
+
+
+Starting epoch 112
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 112, loss real = 0.0004, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.427840948104858
+Saving generated images...
+
+
+
+Starting epoch 113
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 113, loss real = 0.0086, loss fake = 0.1433,loss_gen = 1.1245, los gen gan = 1.0188, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.702574491500854
+Saving generated images...
+
+
+
+Starting epoch 114
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 114, loss real = 0.0023, loss fake = 0.0002,loss_gen = 0.9983, los gen gan = 0.9990, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.071378469467163
+Saving generated images...
+
+
+
+Starting epoch 115
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 115, loss real = 0.0010, loss fake = 0.0001,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.540094375610352
+Saving generated images...
+
+
+
+Starting epoch 116
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 116, loss real = 0.0005, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.876209497451782
+Saving generated images...
+
+
+
+Starting epoch 117
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 117, loss real = 0.0003, loss fake = 0.0002,loss_gen = 1.0001, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.991049766540527
+Saving generated images...
+
+
+
+Starting epoch 118
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 118, loss real = 0.0001, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.41382098197937
+Saving generated images...
+
+
+
+Starting epoch 119
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 119, loss real = 0.0001, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.392519235610962
+Saving generated images...
+
+
+
+Starting epoch 120
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 120, loss real = 0.0002, loss fake = 0.0004,loss_gen = 0.9998, los gen gan = 0.9997, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.609460830688477
+Saving generated images...
+
+
+
+Starting epoch 121
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 121, loss real = 0.0001, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.157778024673462
+Saving generated images...
+
+
+
+Starting epoch 122
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 122, loss real = 0.0003, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.922386646270752
+Saving generated images...
+
+
+
+Starting epoch 123
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 123, loss real = 0.0003, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.158444881439209
+Saving generated images...
+
+
+
+Starting epoch 124
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 124, loss real = 0.0003, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.100810050964355
+Saving generated images...
+
+
+
+Starting epoch 125
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 125, loss real = 0.0062, loss fake = 0.1115,loss_gen = 1.1229, los gen gan = 1.0165, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.6211838722229
+Saving generated images...
+
+
+
+Starting epoch 126
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 126, loss real = 0.0012, loss fake = 0.0000,loss_gen = 0.9998, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.779090166091919
+Saving generated images...
+
+
+
+Starting epoch 127
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 127, loss real = 0.0006, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.724987268447876
+Saving generated images...
+
+
+
+Starting epoch 128
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 128, loss real = 0.0003, loss fake = 0.0001,loss_gen = 0.9995, los gen gan = 0.9997, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.80276894569397
+Saving generated images...
+
+
+
+Starting epoch 129
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 129, loss real = 0.0002, loss fake = 0.0002,loss_gen = 1.0001, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.865638017654419
+Saving generated images...
+
+
+
+Starting epoch 130
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 130, loss real = 0.0001, loss fake = 0.0003,loss_gen = 1.0002, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.083245992660522
+Saving generated images...
+
+
+
+Starting epoch 131
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 131, loss real = 0.0001, loss fake = 0.0002,loss_gen = 1.0002, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.023132801055908
+Saving generated images...
+
+
+
+Starting epoch 132
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 132, loss real = 0.0001, loss fake = 0.0002,loss_gen = 1.0001, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.807425260543823
+Saving generated images...
+
+
+
+Starting epoch 133
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 133, loss real = 0.0002, loss fake = 0.0001,loss_gen = 1.0001, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.195847988128662
+Saving generated images...
+
+
+
+Starting epoch 134
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 134, loss real = 0.0002, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 14.017828941345215
+Saving generated images...
+
+
+
+Starting epoch 135
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 135, loss real = 0.0003, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.867920398712158
+Saving generated images...
+
+
+
+Starting epoch 136
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 136, loss real = 0.0003, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.60206413269043
+Saving generated images...
+
+
+
+Starting epoch 137
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 137, loss real = 0.0003, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.705373764038086
+Saving generated images...
+
+
+
+Starting epoch 138
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 138, loss real = 0.0051, loss fake = 0.1276,loss_gen = 1.1225, los gen gan = 1.0181, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.419509410858154
+Saving generated images...
+
+
+
+Starting epoch 139
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 139, loss real = 0.0010, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.944573640823364
+Saving generated images...
+
+
+
+Starting epoch 140
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 140, loss real = 0.0005, loss fake = 0.0003,loss_gen = 1.0000, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.66474723815918
+Saving generated images...
+
+
+
+Starting epoch 141
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 141, loss real = 0.0007, loss fake = 0.0006,loss_gen = 0.9978, los gen gan = 0.9986, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 14.021631956100464
+Saving generated images...
+
+
+
+Starting epoch 142
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 142, loss real = 0.0003, loss fake = 0.0002,loss_gen = 0.9991, los gen gan = 0.9994, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.78734564781189
+Saving generated images...
+
+
+
+Starting epoch 143
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 143, loss real = 0.0001, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.990729093551636
+Saving generated images...
+
+
+
+Starting epoch 144
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 144, loss real = 0.0001, loss fake = 0.0007,loss_gen = 0.9997, los gen gan = 0.9995, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.19132685661316
+Saving generated images...
+
+
+
+Starting epoch 145
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 145, loss real = 0.0000, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.97028112411499
+Saving generated images...
+
+
+
+Starting epoch 146
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 146, loss real = 0.0000, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.199374914169312
+Saving generated images...
+
+
+
+Starting epoch 147
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 147, loss real = 0.0001, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.563718557357788
+Saving generated images...
+
+
+
+Starting epoch 148
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 148, loss real = 0.0002, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.977205991744995
+Saving generated images...
+
+
+
+Starting epoch 149
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 149, loss real = 0.0042, loss fake = 0.1155,loss_gen = 1.0923, los gen gan = 1.0135, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.730914831161499
+Saving generated images...
+
+
+
+Starting epoch 150
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 150, loss real = 0.0019, loss fake = 0.0003,loss_gen = 0.9987, los gen gan = 0.9992, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.902425765991211
+Saving generated images...
+
+
+
+Starting epoch 151
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 151, loss real = 0.0007, loss fake = 0.0001,loss_gen = 1.0001, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.87062406539917
+Saving generated images...
+
+
+
+Starting epoch 152
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 152, loss real = 0.0004, loss fake = 0.0002,loss_gen = 1.0002, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.48878002166748
+Saving generated images...
+
+
+
+Starting epoch 153
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 153, loss real = 0.0002, loss fake = 0.0002,loss_gen = 1.0002, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.256670951843262
+Saving generated images...
+
+
+
+Starting epoch 154
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 154, loss real = 0.0001, loss fake = 0.0002,loss_gen = 1.0001, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.004379034042358
+Saving generated images...
+
+
+
+Starting epoch 155
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 155, loss real = 0.0006, loss fake = 0.0020,loss_gen = 1.0017, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.828762769699097
+Saving generated images...
+
+
+
+Starting epoch 156
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 156, loss real = 0.0001, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.750657558441162
+Saving generated images...
+
+
+
+Starting epoch 157
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 157, loss real = 0.0000, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.300957918167114
+Saving generated images...
+
+
+
+Starting epoch 158
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 158, loss real = 0.0000, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.40781831741333
+Saving generated images...
+
+
+
+Starting epoch 159
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 159, loss real = 0.0002, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.749992847442627
+Saving generated images...
+
+
+
+Starting epoch 160
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 160, loss real = 0.0002, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 14.101239919662476
+Saving generated images...
+
+
+
+Starting epoch 161
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 161, loss real = 0.0028, loss fake = 0.0834,loss_gen = 1.0695, los gen gan = 1.0108, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.921376943588257
+Saving generated images...
+
+
+
+Starting epoch 162
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 162, loss real = 0.0007, loss fake = 0.0002,loss_gen = 0.9997, los gen gan = 0.9997, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.316089630126953
+Saving generated images...
+
+
+
+Starting epoch 163
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 163, loss real = 0.0003, loss fake = 0.0002,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.17955493927002
+Saving generated images...
+
+
+
+Starting epoch 164
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 164, loss real = 0.0001, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.965420484542847
+Saving generated images...
+
+
+
+Starting epoch 165
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 165, loss real = 0.0001, loss fake = 0.0001,loss_gen = 1.0001, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.660062789916992
+Saving generated images...
+
+
+
+Starting epoch 166
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 166, loss real = 0.0000, loss fake = 0.0001,loss_gen = 1.0001, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.16987943649292
+Saving generated images...
+
+
+
+Starting epoch 167
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 167, loss real = 0.0022, loss fake = 0.0471,loss_gen = 1.0394, los gen gan = 1.0091, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.810022830963135
+Saving generated images...
+
+
+
+Starting epoch 168
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 168, loss real = 0.0015, loss fake = 0.0002,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.19802975654602
+Saving generated images...
+
+
+
+Starting epoch 169
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 169, loss real = 0.0004, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.896688222885132
+Saving generated images...
+
+
+
+Starting epoch 170
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 170, loss real = 0.0001, loss fake = 0.0001,loss_gen = 1.0001, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.026640176773071
+Saving generated images...
+
+
+
+Starting epoch 171
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 171, loss real = 0.0001, loss fake = 0.0001,loss_gen = 1.0001, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.191902875900269
+Saving generated images...
+
+
+
+Starting epoch 172
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 172, loss real = 0.0000, loss fake = 0.0001,loss_gen = 1.0001, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.082923173904419
+Saving generated images...
+
+
+
+Starting epoch 173
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 173, loss real = 0.0000, loss fake = 0.0001,loss_gen = 1.0001, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.124778509140015
+Saving generated images...
+
+
+
+Starting epoch 174
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 174, loss real = 0.0002, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.937377214431763
+Saving generated images...
+
+
+
+Starting epoch 175
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 175, loss real = 0.0002, loss fake = 0.0001,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.821316719055176
+Saving generated images...
+
+
+
+Starting epoch 176
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 176, loss real = 0.0036, loss fake = 0.0477,loss_gen = 1.0428, los gen gan = 1.0104, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.932649374008179
+Saving generated images...
+
+
+
+Starting epoch 177
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 177, loss real = 0.0005, loss fake = 0.0000,loss_gen = 0.9998, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.605767965316772
+Saving generated images...
+
+
+
+Starting epoch 178
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 178, loss real = 0.0002, loss fake = 0.0001,loss_gen = 0.9996, los gen gan = 0.9998, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.20026683807373
+Saving generated images...
+
+
+
+Starting epoch 179
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 179, loss real = 0.0001, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.069615125656128
+Saving generated images...
+
+
+
+Starting epoch 180
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 180, loss real = 0.0001, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.606832265853882
+Saving generated images...
+
+
+
+Starting epoch 181
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 181, loss real = 0.0000, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.584842681884766
+Saving generated images...
+
+
+
+Starting epoch 182
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 182, loss real = 0.0001, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.511260271072388
+Saving generated images...
+
+
+
+Starting epoch 183
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 183, loss real = 0.0002, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.304999828338623
+Saving generated images...
+
+
+
+Starting epoch 184
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 184, loss real = 0.0002, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.835084676742554
+Saving generated images...
+
+
+
+Starting epoch 185
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 185, loss real = 0.0002, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.654061317443848
+Saving generated images...
+
+
+
+Starting epoch 186
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 186, loss real = 0.0002, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.326128482818604
+Saving generated images...
+
+
+
+Starting epoch 187
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 187, loss real = 0.0003, loss fake = 0.0000,loss_gen = 0.9999, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.392534971237183
+Saving generated images...
+
+
+
+Starting epoch 188
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 188, loss real = 0.0066, loss fake = 0.2164,loss_gen = 1.1903, los gen gan = 1.0180, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.921438932418823
+Saving generated images...
+
+
+
+Starting epoch 189
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 189, loss real = 0.0017, loss fake = 0.0010,loss_gen = 1.0009, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.662442922592163
+Saving generated images...
+
+
+
+Starting epoch 190
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 190, loss real = 0.0009, loss fake = 0.0025,loss_gen = 1.0022, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.87102198600769
+Saving generated images...
+
+
+
+Starting epoch 191
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 191, loss real = 0.0006, loss fake = 0.0025,loss_gen = 1.0023, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.706636667251587
+Saving generated images...
+
+
+
+Starting epoch 192
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 192, loss real = 0.0004, loss fake = 0.0021,loss_gen = 1.0019, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.982829093933105
+Saving generated images...
+
+
+
+Starting epoch 193
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 193, loss real = 0.0002, loss fake = 0.0016,loss_gen = 1.0015, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.743303775787354
+Saving generated images...
+
+
+
+Starting epoch 194
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 194, loss real = 0.0002, loss fake = 0.0013,loss_gen = 1.0012, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.263858556747437
+Saving generated images...
+
+
+
+Starting epoch 195
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 195, loss real = 0.0001, loss fake = 0.0010,loss_gen = 1.0008, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.081781148910522
+Saving generated images...
+
+
+
+Starting epoch 196
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 196, loss real = 0.0001, loss fake = 0.0006,loss_gen = 1.0005, los gen gan = 0.9999, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 12.716337203979492
+Saving generated images...
+
+
+
+Starting epoch 197
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 197, loss real = 0.0001, loss fake = 0.0005,loss_gen = 1.0004, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.18828535079956
+Saving generated images...
+
+
+
+Starting epoch 198
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 198, loss real = 0.0003, loss fake = 0.0007,loss_gen = 0.9999, los gen gan = 0.9996, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.206453323364258
+Saving generated images...
+
+
+
+Starting epoch 199
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 199, loss real = 0.0000, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.319277048110962
+Saving generated images...
+
+
+
+Starting epoch 200
+t: 10
+Start training...
+Start testing...
+test acc: 0.10000000521540642
+Iteration 200, loss real = 0.0001, loss fake = 0.0000,loss_gen = 1.0000, los gen gan = 1.0000, test acc = 0.1000,inc score mean = 1.0000
+Epoch time: 13.256095886230469
+Saving generated images...
+
+
+Best accuracy:  0.1000
+None
